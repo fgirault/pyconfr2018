@@ -1,8 +1,9 @@
 # pyconfr2018
 
-Ressource sur la conférence "TkInter toujours de la partie ?" à PyConFr 2018 - Lille : slides et (bientôt) un projet-démo de flat design avec TkInter et ttk.
+Ressources de la conférence "TkInter, toujours de la partie ?" à PyConFr 2018 - Lille : 
 
-Le code source de l'application-template est dans le dépôt https://github.com/fgirault/tkcode
+ - les [slides](/slides/) dans divers formats
+ - le démonstrateur présenté, TkCode
 
 ## Liens évoqués
 
@@ -24,3 +25,11 @@ Le code source de l'application-template est dans le dépôt https://github.com/
 
  - Palettes de couleurs : https://flatuicolors.com/
  - Iconographie : http://www.defaulticon.com/
+
+## TkCode
+
+Pour l'occasion, un exemple d'éditeur de texte dans un style sombre des dernières tendances à la mode (Sublime Text, Atom, VS Code ...) :
+
+![Screenshot TkCode](/screenshots/tkcode.png?raw=true "TkCode")
+
+Le code source est dans le dépôt https://github.com/fgirault/tkcode

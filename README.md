@@ -2,6 +2,8 @@
 
 Ressource sur la conférence "TkInter toujours de la partie ?" à PyConFr 2018 - Lille : slides et (bientôt) un projet-démo de flat design avec TkInter et ttk.
 
+Le code source de l'application-template est dans le dépôt https://github.com/fgirault/tkcode
+
 ## Liens évoqués
 
 ### UX
